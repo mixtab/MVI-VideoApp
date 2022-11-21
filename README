@@ -14,10 +14,10 @@ Room
 App functionality:
 
 The program shows a list of videos with the following information: - Image, - Title, - Description.
-The list is compiled locally using Room.
+The list is saved locally using Room.
 
-The user can add a new video manually by choosing a photo according to the legend of \n
-the new Photo picker available on Android 13 and above and by entering a title and description for the video.
+The user can add a new video manually by choosing a photo according to the legend of
+the new Photo picker which available on Android 13 and above and by entering a title and description for the video.
 The user can delete the video by swiping from right to left.
 
 At the click of a button, the application can dynamically change the theme of the application
